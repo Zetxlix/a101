@@ -51,10 +51,10 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
+console.log(color('\n🐶 YT CHANNEL:','silver'))
+console.log(color('🐶 GITHUB:','silver'))
+console.log(color('🐶 WA NUMBER: +24105166540','silver'))
+console.log(color('Hendraa','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
@@ -66,7 +66,7 @@ console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Subscribe Xeon','Safari','1.0.0'],
+        browser: ['/','Safari','1.0.0'],
         auth: state,
         version
     })
