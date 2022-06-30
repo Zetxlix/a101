@@ -10945,11 +10945,10 @@ case 'tqtt':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
-And all friends who helped assemble this sexy script !!!`)
-break
+•LORD BUDDHA
+•Xeon (Me)
+•ArullOfc
+And all creator Bot
 default:
 if (budy.startsWith('=>')) {
 if (!isCreator) return reply(mess.owner)
