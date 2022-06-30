@@ -1542,7 +1542,7 @@ const jumlahUser = pendaftar.length
   if (!isInventoriBuruan){ addInventoriBuruan(m.sender) }
   
 const menulist = `┌─❖
-│「 Hi 👋 」
+│「 Hallo 👋 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  How Are You? 😄
 │└────────────┈ ⳹
