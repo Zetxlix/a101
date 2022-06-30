@@ -10948,7 +10948,7 @@ reply(`Thanks to
 •LORD BUDDHA
 •Xeon (Me)
 •ArullOfc
-And all creator Bot
+And all creator Bot`)
 default:
 if (budy.startsWith('=>')) {
 if (!isCreator) return reply(mess.owner)
