@@ -1544,7 +1544,7 @@ const jumlahUser = pendaftar.length
 const menulist = `┌─❖
 │「 Hallo 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  How Are You? 😄
+┌┤✑  Bagaimana Kabarmu? 😄
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
@@ -1571,8 +1571,8 @@ const menulist = `┌─❖
 │𝗬𝗼𝘂𝗿 𝗘𝗺𝗲𝗿𝗮𝗹𝗱 : ${getEmerald(m.sender)}
 │𝗬𝗼𝘂𝗿 𝗣𝗼𝘁𝗶𝗼𝗻 : ${getPotion(m.sender)}
 └┬────────────┈ ⳹
-   │✑  Please Select
-   │✑  The Button Below
+   │✑  silahkan pilih
+   │✑  Tombol Di Bawah
    └─────────────┈ ⳹`
 const qtod = m.quoted? "true":"false"
 
