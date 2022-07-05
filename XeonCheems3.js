@@ -1,24 +1,8 @@
-//════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//═══════════════════════════
+//Recode By ArullOfc 
+//Berasal dari sc Xeon Bot Inc. Cheems Bot MD
 //Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
+
 //════════════════════════════//
 
 process.on('uncaughtException', console.error) //Error log
@@ -6129,7 +6113,7 @@ Type : ${lotwit.medias[1].extension}
 Size : ${lotwit.medias[1].formattedSize}
 Link : ${lotwit.medias[1].url}
 
-_Choose the video quality below by clicking the button_`
+_Pilih kualitas video di bawah ini dengan mengklik tombol_`
 let buttons = [
 {buttonId: `twddl ${lotwit.medias[0].url}`, buttonText: {displayText: `Quality ${lotwit.medias[0].quality}`}, type: 1},
 {buttonId: `twddl ${lotwit.medias[2].url}`, buttonText: {displayText: `Quality ${lotwit.medias[2].quality}`}, type: 1}
@@ -6227,7 +6211,7 @@ Type : video/${resd.medias[0].extension}
 Quality : ${resd.medias[0].quality}
 Size : ${resd.medias[0].formattedSize}
 
-_For HD quality you can click the button below_`
+Untuk kualitas HD Anda dapat mengklik tombol di bawah ini`
 let buttons = [
 {buttonId: `fbddl ${resd.medias[1].url}`, buttonText: {displayText: 'QualityHD'}, type: 1}
 ]
@@ -6288,7 +6272,7 @@ break
    console.log(musim_rambutan)
    const xeontiktokop = musim_rambutan.result.watermark
 texttk = `Wanna download no watermark or audio?
-_Please choose the button below_`
+Silakan pilih tombol di bawah ini`
 let buttons = [
 {buttonId: `ttnowm ${q}`, buttonText: {displayText: 'No Watermark ❌'}, type: 1},
 {buttonId: `ttaud ${q}`, buttonText: {displayText: 'Audio 🎶'}, type: 1}
@@ -6386,7 +6370,7 @@ ${themeemoji} Title : ${res.title}
 ${themeemoji} Size : ${res.size}
 ${themeemoji} Quality : ${res.quality}
 
-_Select video or audio and wait a while_`
+_Pilih video atau audio dan tunggu beberapa saat_`
 let buttons = [
 {buttonId: `.ytmp4 ${res.link}`, buttonText: {displayText: 'VIDEO'}, type: 1},
 {buttonId: `.ytmp3 ${res.link}`, buttonText: {displayText: 'AUDIO'}, type: 1}
@@ -6465,7 +6449,7 @@ ${global.themeemoji} Title : ${res.title}
 ${global.themeemoji} Size : ${res.size}
 ${global.themeemoji} Quality : ${res.quality}
 
-_Select video or audio and wait a while_`
+_Pilih video atau audio dan tunggu beberapa saat_`
 let buttons = [
 {buttonId: `ytvd ${res.link}`, buttonText: {displayText: '► Video'}, type: 1},
 {buttonId: `ytad ${res.mp3}`, buttonText: {displayText: '♫ Audio'}, type: 1}
@@ -6704,7 +6688,7 @@ let media = await quoted.download()
 let encmedia = await XeonBotInc.sendVideoAsSticker(m.chat, media, m, { packname: pcknm, author: atnm })
 await fs.unlinkSync(encmedia)
 } else {
-reply(`Send Image/Video With Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
+reply(`Kirim Gambar/Video Dengan Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
 }
 }
 break
@@ -7249,7 +7233,7 @@ case 'wangy':
 	if (isBanChat) return reply(mess.banChat)
               if (!text) return replay(`Use Text, Example : ${prefix + command} cheems`)
               qq = q.toUpperCase()
-              awikwok = `${qq} ${qq} ${qq} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaah the smell of hair ${qq} smelly i want to smell the fragrance ${qq} AAAAAAAAH ~ Her hair.... aaah i want to stroke her hair too ~~ AAAAAH ${qq} first time out in anime is cute too ❤️ ❤️ ❤️ so AAAAAAAH ${qq} AAAAAA LUCCUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️what ? ${qq} it's not real ? Just HELL you say ? no, no no no no no no no no no no no no no no no !! I DON'T CARE ABOUT THE REALITY, I DON'T CARE. ❤️ ❤️ ❤️ ${qq} me ... ${qq} on the laptop watching me, ${qq} .. you believe in me ? aaaaaaaaaaah thanks ${q} I don't want to give up ${qq} aaaaaah ❤️ ❤️ ❤️ YEAAAAAAAAAAAH I STILL HAVE ${qq} ALSO NOT THE SAME AAAAAAAAAAAAAAH`
+              awikwok = `${qq} ${qq} ${qq} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaa bau rambut ${qq} bau aku ingin mencium wanginya ${qq} AAAAAAAAH ~ Rambutnya.... aaah aku juga ingin membelai rambutnya ~~ AAAAAH ${qq} pertama kali keluar di anime juga lucu ❤️ ❤️ ❤️ so AAAAAAAH ${qq} AAAAAA LUCCUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️what ? ${qq} itu tidak nyata ? Hanya NERAKA katamu? tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak!! SAYA TIDAK PEDULI DENGAN KENYATAANNYA, SAYA TIDAK PEDULI. ❤️ ❤️ ❤️ ${qq} me ... ${qq} di laptop mengawasiku, ${qq} .. kamu percaya padaku? aaaaaaaaaa terima kasih ${q} aku tidak ingin menyerah ${qq} aaaaaah ❤️ ❤️ ❤️ YAAAAAAAAAA AKU MASIH PUNYA ${qq} JUGA TIDAK SAMA AAAAAAAAAAAAAH`
              reply(awikwok)
               break
               case 'where':
@@ -9275,7 +9259,7 @@ break
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `Hallo ${pushname}`,
-                    description: `Silahkan Pilih Menunya\n\n`,
+                    description: `Silahkan Pilih Menunya\nKalo ada yang eror harap dimaklumi\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
@@ -9293,107 +9277,107 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Bot Features ❤️",
 								"rows": [
 									{
-										"title": "All Menu 🥀",
+										"title": "𝗔𝗹𝗹 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of All The Features!",
 										"rowId": `${prefix}allmenu`
 									},
 									{
-										"title": "Owner Menu 💠",
+										"title": "𝗢𝘄𝗻𝗲𝗿 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Owner Features",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
-										"title": "Group Menu ✨",
+										"title": "𝗚𝗿𝗼𝘂𝗽 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Main Features",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
-										"title": "Rpg Menu 🏞️",
+										"title": "𝗥𝗽𝗴 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Rpg Features",
 										"rowId": `${prefix}rpgmenu`
 										},
 										{
-										"title": "Maker Menu 🌈",
+										"title": "𝗠𝗮𝗸𝗲𝗿 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Logo Making Features",
 										"rowId": `${prefix}indomenu`
 									},
 									{
-										"title": "Sound Menu 🎵",
+										"title": "𝗠𝗲𝗻𝘂 𝗦𝗼𝘂𝗻𝗱",
 										"description": "Displays The List Of Sound Features",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
-										"title": "Download Menu ↘️",
+										"title": "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Download Features",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
-										"title": "Sticker Menu 🃏",
+										"title": "𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Sticker Features",
 										"rowId": `${prefix}indomenu`
 									},
 									{
-										"title": "Search Menu 🔎",
+										"title": "𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Searching Features",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
-										"title": "Tool Menu ⚙️",
+										"title": "𝗧𝗼𝗼𝗹𝘀 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Tool Features",
 										"rowId": `${prefix}toolmenu`
 									},
 									{
-										"title": "Random Image Menu 🌆",
+										"title": "𝗥𝗮𝗻𝗱𝗼𝗺 𝗜𝗺𝗮𝗴𝗲 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Random Image Features",
 										"rowId": `${prefix}randomimagemenu`
 									},
 										{
-											"title": "Anime Menu 😘",
+											"title": "𝗔𝗻𝗶𝗺𝗲 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Random Anime Features",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-										"title": "Anime Sticker Menu ☺️",
+										"title": "𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗔𝗻𝗶𝗺𝗲 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Anime Sticker Features",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
-										"title": "Nsfw Menu 🤓",
+										"title": "𝗡𝘀𝗳𝘄 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Nsfe Features",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
-											"title": "Fun Menu 🕺",
+											"title": "𝗙𝘂𝗻 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Fun Features",
 										"rowId": `${prefix}funmenu`
 										},
 										{
-										"title": "Game Menu 🎮",
+										"title": "𝗚𝗔𝗠𝗘 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Game Features",
 										"rowId": `${prefix}indomenu`
 									},
 										{
-											"title": "Convert Menu ⚒️",
+											"title": "𝗖𝗼𝗻𝘃𝗲𝗿𝘁 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Convert Features",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
-											"title": "Database Menu ♻️",
+											"title": "𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Database Features",
 										"rowId": `${prefix}databasemenu`
 										},
 										{
-											"title": "Islamic Menu 🧕",
+											"title": "𝗜𝘀𝗹𝗮𝗺 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Islamic Features",
 										"rowId": `${prefix}islamicmenu`
 										},
 										{
-										"title": "Indo Menu  🦜",
+										"title": "𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Indo Features",
 										"rowId": `${prefix}indomenu`
 									},
 										{
-											"title": "Horoscope Menu 🕊️",
+											"title": "𝗛𝗼𝗿𝗼𝘀𝗰𝗼𝗽𝗲 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Horoscope Features",
 										"rowId": `${prefix}indohoroscopemenu`
 										}
@@ -9403,7 +9387,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Chat With Fellow Users 🌝",
 								"rows": [
 									{
-										"title": "Anonymous Chat Menu 🙎🏻‍♂️",
+										"title": "𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Anonymous Chat Features",
 										"rowId": `${prefix}anonymousmenu`
 									}
@@ -9413,7 +9397,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Credit ©️",
 								"rows": [
 									{
-										"title": "Thanks To ❤️",
+										"title": "𝗖𝗿𝗲𝗱𝗶𝘁𝘀 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Credit Of The Bot !!",
 										"rowId": `${prefix}tqtt`
 									}
