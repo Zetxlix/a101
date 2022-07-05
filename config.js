@@ -1,24 +1,7 @@
 //════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//Recode By ArullOfc 
+//Berasal dari sc Xeon Bot Inc. Cheems Bot MD
 //Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
 //════════════════════════════//
 
 const fs = require("fs")
@@ -59,7 +42,7 @@ global.ownertag = ['ArullOfc'] //ur owner tag
 global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
 global.watermark = "ArullBotz" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
+global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
 global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
 
 //Bot theme media
