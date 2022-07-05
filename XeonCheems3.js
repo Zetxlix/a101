@@ -9264,17 +9264,17 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
                     sections: [{
-								"title": "Initial Features Of Bot 🦄",
+								"title": "𝙁𝙞𝙩𝙪𝙧 𝘼𝙬𝙖𝙡 𝘽𝙤𝙩",
 								"rows": [
 									{
-										"title": "Other ☕",
+										"title": "𝗢𝘁𝗵𝗲𝗿 𝗠𝗲𝗻𝘂",
 										"description": "Displays The List Of Other Features",
 										"rowId": `${prefix}othermenu`
 									}
 								]
 							},
 							{
-								"title": "Bot Features ❤️",
+								"title": "𝙁𝙞𝙩𝙪𝙧 𝘽𝙤𝙩",
 								"rows": [
 									{
 										"title": "𝗔𝗹𝗹 𝗠𝗲𝗻𝘂",
@@ -9384,7 +9384,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "Chat With Fellow Users 🌝",
+								"title": "𝙈𝙚𝙣𝙜𝙤𝙗𝙧𝙤𝙡 𝘿𝙚𝙣𝙜𝙖𝙣 𝙎𝙚𝙨𝙖𝙢𝙖 𝙋𝙚𝙣𝙜𝙜𝙪𝙣𝙖",
 								"rows": [
 									{
 										"title": "𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗠𝗲𝗻𝘂",
@@ -9394,7 +9394,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "Credit ©️",
+								"title": "𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ©",
 								"rows": [
 									{
 										"title": "𝗖𝗿𝗲𝗱𝗶𝘁𝘀 𝗠𝗲𝗻𝘂",
