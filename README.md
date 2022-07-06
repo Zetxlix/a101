@@ -32,8 +32,8 @@ ArullBotzMD Multi Device is a automated whatsapp bot created by <a href="https:/
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"><img src="https://img.shields.io/badge/Subscribe ARULL OFC-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donasi```
