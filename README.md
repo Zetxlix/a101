@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-ArullBotzMD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Warikrr" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Jangan lupa kasih bintang ya.
+ArullBotzMD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Warikrr" target="_blank">ArullOfc</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Jangan lupa kasih bintang ya.
 </p>
 
 <p align="center">
