@@ -24,25 +24,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['1917900987'] //ur owner number
-global.ownername = "Alexa - Gans"
+global.owner = ['19179009987'] //ur owner number
+global.ownername = "𝐀𝐥𝐞𝐱𝐚"
 global.ytname = "YT:ALEXA YT " //ur yt chanel name
 global.socialm = "GitHub: Zetxlix" //ur github or insta name
 global.location = "Indonesia, Jawa Barat, Jakarta" //ur location
 
 //bot bombdy
-global.botname = "AlexaBotz" //ur bot name
+global.botname = "𝐀𝐥𝐞𝐱𝐚 𝐁𝐨𝐭𝐳" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCEHzs2xqkjpDpdpjfak_Wzw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "AlexaBotz"
+global.author = "𝐀𝐥𝐞𝐱𝐚 𝐁𝐨𝐭𝐳"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['AlexaGans'] //ur owner tag
-global.ownernummenu = ['1917900987'] //ur owner number in menu and all
-global.watermark = "AlexaBotz" //ur watermark
-global.botscript = "https://www.instagram.com/hyzzdhenta_"
-global.linkz1 = "https://chat.whatsapp.com/E3m4zWG9IpO6Bz2AMs1sOM"
+global.ownertag = ['𝐀𝐥𝐞𝐱𝐚 𝐁𝐨𝐭𝐳'] //ur owner tag
+global.ownernummenu = ['19179009987'] //ur owner number in menu and all
+global.watermark = "© 𝐀𝐥𝐞𝐱𝐚 𝐁𝐨𝐭𝐳 | 𝙟𝙞𝙠𝙖 𝙖𝙙𝙖 𝙮𝙖𝙣𝙜 𝙚𝙧𝙧𝙤𝙧 𝙢𝙤𝙝𝙤𝙣 𝙡𝙖𝙥𝙤𝙧 𝙠𝙚 𝙊𝙬𝙣𝙚𝙧" //ur watermark
+global.botscript = "https://wa.me/qr/D26JAA2RXJYDP1"
+global.linkz1 = "https://www.instagram.com/hyzzdhenta_"
 global.linkz2 = "https://www.youtube.com/channel/UCEHzs2xqkjpDpdpjfak_Wzw"
 
 //Bot theme media
