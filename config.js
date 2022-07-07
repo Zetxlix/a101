@@ -8,8 +8,8 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
@@ -24,26 +24,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.owner = ['1917900987'] //ur owner number
+global.ownername = "Alexa - Gans"
+global.ytname = "YT:ALEXA YT " //ur yt chanel name
+global.socialm = "GitHub: Zetxlix" //ur github or insta name
+global.location = "Indonesia, Jawa Barat, Jakarta" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "AlexaBotz" //ur bot name
+global.websitex = "https://www.youtube.com/channel/UCEHzs2xqkjpDpdpjfak_Wzw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "AlexaBotz"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.ownertag = ['AlexaGans'] //ur owner tag
+global.ownernummenu = ['1917900987'] //ur owner number in menu and all
+global.watermark = "AlexaBotz" //ur watermark
+global.botscript = "https://www.instagram.com/hyzzdhenta_"
+global.linkz1 = "https://chat.whatsapp.com/E3m4zWG9IpO6Bz2AMs1sOM"
+global.linkz2 = "https://www.youtube.com/channel/UCEHzs2xqkjpDpdpjfak_Wzw"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
